@@ -3,7 +3,11 @@
 <h1>Hi 👋, I'm Md Rostam Ali</h1>
 <p>Experienced front-end developer skilled in React, Next JS, Typescript, Redux Toolkit, React Query, Axios, MongoDB, and Mongoose. Proficient in building complex and user-friendly web applications, managing state, and integrating back-end APIs. Strong problem-solving and communication skills with a passion for staying up-to-date with the latest technologies.</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/rostamali](https://github.com/rostamali)
+<h3 align="left">Skills:</h3>
+
+- Proficient in React.js, Next.js, Typescript, Javascript, React Query, Redux Toolkit, and Mongoose
+- Strong knowledge of HTML, CSS/Bootstrap/Tailwind CSS, and other web development technologies
+- Excellent communication and collaboration skills
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
