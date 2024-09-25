@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- [Portfolio](https://getrostam.com)
-- [LinkedIn](https://www.linkedin.com/in/md-rostam-ali/)
-- [Facebook](https://www.facebook.com/sardarmrostam/)
+- [Portfolio]([https://getrostam.com](https://propixelsite.com))
+- [LinkedIn]([https://www.linkedin.com/in/md-rostam-ali/](https://www.linkedin.com/in/prorostamali/))
+- [Facebook]([https://www.facebook.com/sardarmrostam/](https://www.facebook.com/prorostamali/))
 
