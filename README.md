@@ -1,6 +1,6 @@
 ![Md Rostam Ali Github Profile](https://github.com/rostamali/rostamali/blob/main/rostam-github-profile-banner.png 'Md Rostam Ali Github Profile')
 
-<h1>Hi 👋, I'm Md Rostam Ali</h1>
+<h1>Hi 👋, I'm Muhammad Rostam</h1>
 <p>Experienced front-end developer skilled in React, Next JS, Typescript, Redux Toolkit, React Query, Axios, MongoDB, and Mongoose. Proficient in building complex and user-friendly web applications, managing state, and integrating back-end APIs. Strong problem-solving and communication skills with a passion for staying up-to-date with the latest technologies.</p>
 
 <h3 align="left">Skills:</h3>
@@ -13,7 +13,6 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- [Portfolio](https://propixelsite.com)
-- [LinkedIn](https://www.linkedin.com/in/prorostamali/)
+- [LinkedIn](https://www.linkedin.com/in/mrostamali/)
 - [Facebook](https://www.facebook.com/prorostamali/)
 
